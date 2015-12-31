@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "out": "tsc.js",
+        "sourceMap": true
+    },
+    "files": [
+        "test.ts",
+        "test2.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
